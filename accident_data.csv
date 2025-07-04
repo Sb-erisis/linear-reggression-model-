@@ -1,0 +1,11 @@
+Vehicle_Speed,Weather_Condition,Road_Surface,Lighting_Condition,Driver_Age,Time_of_Day,Accident_Severity
+50,0,1,0,25,8,2
+70,1,2,1,35,22,4
+30,0,1,0,22,10,1
+90,1,2,1,45,23,5
+65,0,1,0,30,15,3
+45,0,1,0,28,7,2
+80,1,2,1,40,20,4
+75,1,2,1,38,19,5
+60,0,1,0,27,13,3
+40,1,2,1,33,21,4
